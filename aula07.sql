@@ -6,7 +6,7 @@ BEGIN
     
     SELECT @totalClientes = COUNT(*)
     FROM Clientes
-    WHERE CAST(data_cadastro AS DATE) = @data;
+    WHERE (data_cadastro AS DATE) = @data;
     
     RETURN @totalClientes;
 END;
