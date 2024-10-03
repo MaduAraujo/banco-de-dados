@@ -1,0 +1,32 @@
+1. Confidencialidade
+
+A confidencialidade assegura que as informações sejam acessadas apenas por pessoas autorizadas. 
+Para proteger os dados contra acessos não autorizados, podemos implementar:
+
+- Criptografia: Protege os dados em trânsito e em repouso.
+- Controle de acesso: Define quem pode acessar quais dados, com base em funções e permissões.
+- Autenticação forte: Utiliza métodos como autenticação multifator (MFA) para verificar a identidade dos usuários.
+
+2. Integridade
+
+A integridade garante que os dados sejam precisos e confiáveis, não sendo alterados de forma indevida. 
+Para manter a integridade dos dados, consideramos:
+
+- Checksums e hashes: Verificam a integridade dos dados durante a transferência.
+- Controle de versão: Mantém registros de alterações e permite a restauração de versões anteriores.
+- Auditorias e logs: Monitoram e registram todas as alterações feitas nos dados.
+
+3. Disponibilidade
+
+A disponibilidade assegura que os dados estejam acessíveis sempre que necessário. 
+Para garantir a disponibilidade:
+
+- Backups regulares: Realiza cópias de segurança frequentes dos dados.
+- Redundância: Implementa sistemas redundantes para evitar pontos únicos de falha.
+- Planos de recuperação de desastres: Prepara-se para restaurar rapidamente os dados em caso de falhas ou ataques.
+
+Outras Considerações
+
+Além desses pilares, é importante também considerar-mos:
+- Autenticidade: Garante que os dados são provenientes de fontes confiáveis.
+- Conformidade: Assegura que o banco de dados esteja em conformidade com regulamentações e leis aplicáveis, como a LGPD (Lei Geral de Proteção de Dados).
