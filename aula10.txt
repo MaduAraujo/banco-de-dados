@@ -1,0 +1,7 @@
+Comprimento e complexidade: Use senhas longas, com pelo menos 12 caracteres, que incluam uma combinação de letras maiúsculas e minúsculas, números e símbolos. 
+Evite palavras comuns e substituições óbvias.
+
+Frases de Senha: Crie uma frase de senha que seja fácil de lembrar, mas difícil de adivinhar. 
+
+Gerenciadores de Senhas: Utilize gerenciadores de senhas para gerar e armazenar senhas seguras automaticamente. 
+Eles criam senhas únicas para cada conta e as armazenam de forma segura.
